@@ -17,3 +17,7 @@ Run migrations and seeders
 php artisan migrate --seed
 php artisan serve
 ```
+50 managers were created also 1 admin user, they have the same password: secret
+
+In order to gain access to the system please check users table, because this is generated using Faker.
+
