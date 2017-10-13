@@ -1,7 +1,7 @@
 
 ## Installation
 ```sh
-touch database.sqlite
+touch database/database.sqlite
 ```
 
 Inside .env file change to:
